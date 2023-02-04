@@ -1,14 +1,30 @@
 {
-  "name": "typescript_project02_atm",
-  "version": "1.0.0",
+  "name": "inquirer_atm_02_moosani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project02_atm"
+  },
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+  "keywords": [
+    "TypeScript",
+    "ATM",
+    "CLI",
+    "Command line",
+    "Inquirer",
+    "User interface",
+    "Banking",
+    "Financial",
+    "Automation",
+    "Console"
+  ],
+  "author": "Zubair Moosani",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.1.4"
